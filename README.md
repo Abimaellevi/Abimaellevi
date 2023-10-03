@@ -13,7 +13,8 @@
 	<img align="center"  alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> 
 
 </div> 
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abimaellevi&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimaellevi&layout=donut)](https://github.com/Abimaellevi/github-readme-stats)
+<br/>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abimaellevi&show_icons=true&theme=synthwave) [      	            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimaellevi&layout=donut)](https://github.com/Abimaellevi/github-readme-stats)
 
 
