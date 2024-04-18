@@ -1,4 +1,4 @@
-### Olá! Eu sou o Abimael Levi 👋 
+### Olá! Eu meu nome é Abimael Levi 👋 
 
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://abimaellevi.com.br)[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.levirds)[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimael-levi-957668241/)  
 
